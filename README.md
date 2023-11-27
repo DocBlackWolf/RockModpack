@@ -1,3 +1,6 @@
+DECRAPATED due to TheDefside leaving behind JouneyToValhalla the modpack is unusable, unless you have a time machine
+
+
 # The Rock Modpack
 Valheim modpack based on the [rockpile modpack](https://valheim.thunderstore.io/package/thedefside/TheRockPileModpack/) with some fixes.
 
